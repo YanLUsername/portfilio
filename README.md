@@ -9,7 +9,7 @@ Welcome to my short and sweet portfilio. Here, I will be showing some of my codi
 ### Personal Projects
 - [RetroPie Handheld Console](https://github.com/YanLUsername/retropie-handheld) - (WIP) A handheld console powered by a Raspberry Pi Zero 2 W that will emulate retro games using the RetroPie OS.
 
-### Technical Skills & Coding Languages
+### Skills and Languages
 Although not all of my certified skills are represented in code, I am also certified in:
 - Java (Code HS Java Level 1 Certification)
 - C++ (CPP Institute - C++ Certified Entry-Level Programmer)
