@@ -17,3 +17,4 @@ Although not all of my certified skills are represented in code, I am also certi
 - Comptia A+ Certification (Core 1)
 
 I’m always learning! Currently working on my RetroPie project — stay tuned!
+www.linkedin.com/in/yan-li-uci
