@@ -11,11 +11,12 @@ Welcome to my short and sweet portfilio. Here, I will be showing some of my codi
 - [Catalog Website](https://yanlusername.github.io/snap-project/) - Catalog website designed using HTML, CSS, and Javascript. The website showcases some of my favorite cars!
 
 ### Skills and Languages
-Although not all of my certified skills are represented in code, I am also certified in:
+Although not all of my certified skills are represented in code, I am also experienced in:
 - Java (Code HS Java Level 1 Certification)
 - C++ (CPP Institute - C++ Certified Entry-Level Programmer)
 - Microsoft Office (Microsoft Office Specialist)
 - Comptia A+ Certification (Core 1)
+- CSS, Javascript, and HTML
 
 I’m always learning! Currently working on my RetroPie project — stay tuned!
 
