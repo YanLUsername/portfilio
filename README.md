@@ -9,6 +9,7 @@ Welcome to my short and sweet portfilio. Here, I will be showing some of my codi
 ### Personal Projects
 - [RetroPie Handheld Console](https://github.com/YanLUsername/retropie-handheld) - (WIP) A handheld console powered by a Raspberry Pi Zero 2 W that will emulate retro games using the RetroPie OS.
 - [Catalog Website](https://yanlusername.github.io/snap-project/) - Catalog website designed using HTML, CSS, and Javascript. The website showcases some of my favorite cars!
+- [Quadcopter Drone](https://github.com/YanLUsername/drone) - Quadcopter, 5in drone.
 
 ### Skills and Languages
 Although not all of my certified skills are represented in code, I am also experienced in:
@@ -18,6 +19,6 @@ Although not all of my certified skills are represented in code, I am also exper
 - Comptia A+ Certification (Core 1)
 - CSS, Javascript, and HTML
 
-I’m always learning! Currently working on my RetroPie project — stay tuned!
+I’m always learning! Currently working on my RetroPie project, stay tuned!
 
 www.linkedin.com/in/yan-li-uci
