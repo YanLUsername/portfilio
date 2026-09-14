@@ -7,10 +7,11 @@ Welcome to my short and sweet portfilio. Here, I will be showing some of my codi
 - [Pipeline Processor](https://github.com/YanLUsername/pipeline-processor) - A pipelined processor designed in Verilog.
 - [RPI Home Security System](https://github.com/YanLUsername/home-security) - A Raspberry Pi-based home security system.
 
-### Personal Projects
+### Projects
 - [RetroPie Handheld Console](https://github.com/YanLUsername/retropie-handheld) - (WIP) A handheld console powered by a Raspberry Pi Zero 2 W that will emulate retro games using the RetroPie OS.
 - [Catalog Website](https://yanlusername.github.io/snap-project/) - Catalog website designed using HTML, CSS, and Javascript. The website showcases some of my favorite cars!
 - [Quadcopter Drone](https://github.com/YanLUsername/drone) - Quadcopter, 5in drone.
+- [Industrial Concrete Dispensing Silo](https://github.com/YanLUsername/silo-control-system) - Hardware build and documentation for an automated concrete mix dispensing silo controller.
 
 ### Skills and Languages
 Although not all of my certified skills are represented in code, I am also experienced in:
