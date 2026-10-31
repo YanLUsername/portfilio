@@ -21,6 +21,7 @@ Although not all of my certified skills are represented in code, I am also exper
 - Microsoft Office (Microsoft Office Specialist)
 - Comptia A+ Certification (Core 1)
 - CSS, Javascript, and HTML
+- KiCad
 
 I’m always learning! Currently working on my RetroPie project, stay tuned!
 
